@@ -10,3 +10,5 @@ OM = v * math.cos(theta*3.14/180) * t + 0.5*(-9.8* math.sin(alpha*3.14/180))*t**
 
 print(round(t,2),end=" ")
 print(round(OM,2))
+
+#this is code on "change" branch
