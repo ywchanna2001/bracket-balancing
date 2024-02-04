@@ -9,6 +9,6 @@ while t:
     for i in range(0,n):
         c[i],w[i] = list(map(int,input().split(" ")))
     
-    
-
     t-=1
+
+    #This is 1st comment.
